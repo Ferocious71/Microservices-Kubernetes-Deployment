@@ -20,5 +20,5 @@ This document provides details on testing various services after running the `do
 
 ![image](https://github.com/user-attachments/assets/8882f96b-63b1-4d14-b17b-abaf40e3dc7b)
 
-![image](https://github.com/user-attachments/assets/5d89bde3-d7b5-4c55-909e-1af652fa31b1)
+![image](https://github.com/user-attachments/assets/6e4b6f24-8942-4ac2-8a67-9b85f2598da1)
 
